@@ -6,7 +6,7 @@ Every notebook contains a brief description of the method and the code.
 
 ## Notebooks
 
-1. [Binomial Tree]
+1. [Binomial Tree](https://github.com/Jad-yehya/option-pricing/blob/main/binomial.ipynb)
 2. [Monte Carlo]
 3. [Black-Scholes]
 4. [Finite Difference]
