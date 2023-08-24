@@ -7,8 +7,8 @@ Every notebook contains a brief description of the method and the code.
 ## Notebooks
 
 1. [Binomial Tree](https://github.com/Jad-yehya/option-pricing/blob/main/binomial.ipynb)
-2. [Monte Carlo]
-3. [Black-Scholes]
+2. [Monte Carlo](https://github.com/Jad-yehya/option-pricing/blob/main/montecarlo.ipynb)
+3. [Black-Scholes](https://github.com/Jad-yehya/option-pricing/blob/main/black_scholes.ipynb)
 4. [Finite Difference]
 5. [Fourier Transform]
 6. [Least Squares Monte Carlo]
